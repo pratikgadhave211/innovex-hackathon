@@ -1,0 +1,8 @@
+@import "./fonts.css";
+@import "./tailwind.css";
+@import "./theme.css";
+@import "./cyberpunk.css";
+
+::-webkit-scrollbar {
+  display: none;
+}
